@@ -1,4 +1,4 @@
-# Quantium- Retail Strategy and Analytics Job Simulation
+# Quantium - Retail Strategy and Analytics Job Simulation
 ## Introduction
 The job simulation was centered around performing a customer segmentation analysis on chip purchases for a supermarket chain and carrying out A/B testing to examine the effect of a new store layout on store performance.
 
