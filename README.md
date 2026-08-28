@@ -28,14 +28,14 @@ Activities:
 This task involved preparing a presentation slide for the client with regard to the analysis carried out in tasks 1 and 2. This slide would help to present key insights discovered.
 
 Insights:
-## Task 1
+## Task 1:
 1. The top 3 customer segments responsible for sales are:
 - budget older families
 - mainstream retirees
 - mainstream young singles and couples
 2. The number of customers is the driver of sales in the mainstream retirees and mainstream young singles/couples segments.
 3. The number of chips purchased per customer is the driver of sales in the budget older families segments.
-## Task 2
+## Task 2:
 With stores 77, 86, and 88 as trial stores, stores 233, 155, and 237 were selected as control stores, respectively.
 The experimental store layout positively affected the performance of stores 77 and 88, but this was not the case for store 86.
 
