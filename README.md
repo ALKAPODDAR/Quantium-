@@ -39,4 +39,4 @@ Insights:
 With stores 77, 86, and 88 as trial stores, stores 233, 155, and 237 were selected as control stores, respectively.
 The experimental store layout positively affected the performance of stores 77 and 88, but this was not the case for store 86.
 
-source: forage 
+source: Forage 
