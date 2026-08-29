@@ -7,6 +7,7 @@ The job simulation was broken down into three tasks:
 Task 1: Data preparation and customer analytics
 Task 2: Experimentation and uplift testing
 Task 3: Analytics and commercial application
+
 ## Task 1: Data preparation and customer analytics
 This task aimed at analyzing the transaction dataset provided by a supermarket chain (client) and identifying customer purchasing behaviors to generate insights and provide commercial recommendations.
 
